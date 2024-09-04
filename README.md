@@ -6,12 +6,6 @@
 
 ---
 
-## 🌐 Fale Comigo
-
-- **Instagram:** [Meu instagram](https://www.instagram.com/yhureei/)
-
----
-
 ## 📊 GitHub Stats
 
 ![Yuri Esteves GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriEsteves0&show_icons=true&theme=radical)
