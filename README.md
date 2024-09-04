@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, sou o Yuri! 👋
 
 🎓 **Informática para Web - FAETEC/RJ**  
 🎂 **17 anos**  
@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** HTML, CSS, JavaScript, Kotlin, Java, PHP
+- **Linguagens & Tecnologias:** HTML, CSS, JavaScript, Kotlin, Java, PHP
 - **Áreas de Atuação:** Desenvolvimento Web e Mobile
 - **Foco:** Backend
 
@@ -26,13 +26,13 @@ Atualmente, estou expandindo meus conhecimentos em:
 
 ## 🌐 Conecte-se Comigo
 
-- **Instagram:** [Seu LinkedIn](https://www.instagram.com/yhureei/)
+- **Instagram:** [Meu instagram](https://www.instagram.com/yhureei/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yuri Esteves GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Yuri Esteves GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriEsteves0&show_icons=true&theme=radical)
 
 ---
 
