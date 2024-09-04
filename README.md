@@ -2,29 +2,11 @@
 
 🎓 **Informática para Web - FAETEC/RJ**  
 🎂 **17 anos**  
-💻 **Programador Backend/FullStack | Mobile & Web Developer**
+💻 **Programador Backend/FullStack | Mobile & Web Developer:** HTML, CSS, JavaScript, Kotlin, Java, PHP
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens & Tecnologias:** HTML, CSS, JavaScript, Kotlin, Java, PHP
-- **Áreas de Atuação:** Desenvolvimento Web e Mobile
-- **Foco:** Backend
-
----
-
-## 🌱 O Que Estou Aprendendo
-
-Atualmente, estou expandindo meus conhecimentos em:
-
-- **Arquiteturas de Software** para backend
-- **Boas Práticas** de desenvolvimento mobile
-- **Novas Tecnologias** e frameworks modernos
-
----
-
-## 🌐 Conecte-se Comigo
+## 🌐 Fale Comigo
 
 - **Instagram:** [Meu instagram](https://www.instagram.com/yhureei/)
 
