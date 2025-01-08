@@ -1,7 +1,7 @@
 # Olá, sou o Yuri! 👋
 
 🎓 **Informática para Web - FAETEC/RJ**  
-🎂 **17 anos**  
+🎂 **18 anos**  
 💻 **Programador Backend/FullStack | Mobile & Web Developer:** HTML, CSS, JavaScript, Kotlin, Java, PHP
 
 ---
